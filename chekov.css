@@ -1,0 +1,19 @@
+.speech{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: black;
+}
+.direction{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+}
+.direction:hover{
+    background-color: aqua;
+    color: red;
+}
+.ZINAIDA{
+    color: black;
+}
+.MARTHA{
+    color: blueviolet;
+}
