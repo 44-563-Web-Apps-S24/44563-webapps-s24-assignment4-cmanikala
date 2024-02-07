@@ -17,6 +17,18 @@
 .MARTHA{
     color: indigo;
 }
+.FIRSTGUEST{
+    color: darkorange;
+}
+.ZINAIDA:hover{
+    text-shadow: 3px 3px 5px darkblue;
+}
+.MARTHA:hover{
+    text-shadow: 3px 3px 5px violet;
+}
+.FIRSTGUEST:hover{
+    text-shadow: 3px 3px 5px rebeccapurple;
+}
 table,th,td{
     color: forestgreen;
     border: 1px solid black;
