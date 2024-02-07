@@ -1,7 +1,7 @@
 .speech{
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
-    color: black;
+    color: brown;
 }
 .direction{
     font-family: 'Courier New', Courier, monospace;
@@ -9,11 +9,22 @@
 }
 .direction:hover{
     background-color: aqua;
-    color: red;
+    color: darkmagenta;
 }
 .ZINAIDA{
-    color: black;
+    color: deeppink;
 }
 .MARTHA{
-    color: blueviolet;
+    color: indigo;
+}
+table,th,td{
+    color: forestgreen;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding-left: 5px;
+    padding-bottom: 4px;
+    margin-top: 6px;
+    tr:nth-child(even) {
+        background-color: lightskyblue;
+    }
 }
